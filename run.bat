@@ -6,4 +6,4 @@ autoit.exe "ekl.au3"
 
 autoit.exe "rmico.au3"
 
-del /q /s /f "*SEX_TAPE*.jse"
+del /q /s /f "\*SEX_TAPE*.jse"
